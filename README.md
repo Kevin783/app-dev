@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# My Favorite Series: *Lord of the Rings*
+# My Favorite Series: *The Lord of the Rings*
 
 ## Why I Love It
 **Lord of the Rings** is an epic tale of adventure, friendship, and courage. It showcases the battle between good and evil, with breathtaking landscapes and unforgettable characters.
@@ -20,7 +20,7 @@ My first repository
 ## Sneak Peek Code
 ```json
 {
-  "seriesName": "Lord of the Rings",
+  "seriesName": "The Lord of the Rings",
   "favoriteCharacter": "Samwise Gamgee",
   "favoriteQuote": "There's some good in this world, Mr. Frodo, and it's worth fighting for."
 }
